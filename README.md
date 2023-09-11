@@ -29,7 +29,7 @@
 * High quality
 
  ## Videos 
-<img src="usmc-opfor.gif" alt="Preview" width="1280" height="720">
+<img src="usmc-opfor.gif" alt="Preview" width="1280" height="480">
 
  
   - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                             
