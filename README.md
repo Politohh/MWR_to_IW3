@@ -30,6 +30,7 @@
 
  ## Videos 
 
+![opfor-usmc](https://github.com/Politohh/IW3_MWR/blob/main/usmc-opfor.gif)
 
   - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                             
                   
