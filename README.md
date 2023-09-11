@@ -15,7 +15,7 @@
   <a href="https://github.com/Politohh/IW3_MWR)">
 </div>
 <h4 align="center">Keep in mind this is still in development.</a></h4>
-<h4 align="center">BUGS ARE EXPECTED</a></h4>
+<h4 align="center">BUGS AND CRASHES ARE EXPECTED</a></h4>
 
 ## Features
 
