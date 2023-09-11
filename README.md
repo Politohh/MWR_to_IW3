@@ -120,7 +120,7 @@ This mod could not have been realized without the help of :
 - **[Ody Jake](https://youtube.com/@rawkhardt)**
 - **[Xoxor](https://github.com/xoxor4d)**             
 - **[Scobabula and his tools](https://github.com/Scobalula)**
-- **[4give](https://github.com/datapIan)**                             
+- **[4give](https://github.com/datapIan)** for the creation of the gifs.                            
                   
 ## Tools, softwares and games used
 - **[Adobe After Effects CC 2019](https://www.adobe.com/fr/products/aftereffects.html)**
