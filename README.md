@@ -11,13 +11,13 @@
 </div>
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#pictures">Pictures</a> •
+  <a href="#pictures">Videos</a> •
   <a href="#support">Support</a> •
   <a href="#installation">Installation</a> •
   <a href="#credits">Credits</a> •
 </p>
 <div align="center">
-  <a href="https://github.com/Polito1/IW3-ENHANCER-MOD)">
+  <a href="https://github.com/Politohh/IW3_MWR)">
     <img src="strike.png" alt="Preview" width="1280" height="480">
   </a>
 </div>
@@ -26,16 +26,11 @@
 
 ## Features
 
-* Replaces a lot of assets/models from base game
-* New vehicles
-* New grass, flowers
-* New bomb briefcase + bombsite 
-* Replaces all signs
-* New trees
+* Replaces the playermodels and WorldModel Weapons by their MWR Versions.
 * Works with old demos
 * High quality
 
- ## Pictures 
+ ## Videos 
  
   - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                                 
                   
@@ -60,27 +55,19 @@
 This mod could not have been realized without the help of :
                   
 - **[Ody Jake](https://youtube.com/@rawkhardt)**
-- **[Xoxor](https://github.com/xoxor4d)**
-- **[m0tyr](https://www.youtube.com/@m0tyr896)**                  
-- **[Scobabula and his tools](https://github.com/Scobalula)**
-- **[Sheilan](https://github.com/sheilan102)**                  
-  **and many other people for motivation.**                  
+- **[Xoxor](https://github.com/xoxor4d)**             
+- **[Scobabula and his tools](https://github.com/Scobalula)**                             
                   
 ## Tools, softwares and games used
-- **[Photoshop](https://www.adobe.com/fr/products/photoshop.html)**
 - **[Adobe After Effects CC 2019](https://www.adobe.com/fr/products/aftereffects.html)**
 - **[Paint.net](https://www.getpaint.net/)**                  
 - **[Greyhound](https://github.com/Scobalula/Greyhound)**
-- **[C2M](https://github.com/sheilan102/C2M)** 
 - **[Maya 2018](https://www.autodesk.com/campaigns/maya)**                   
 - **[Cod 4 Mod Tools](https://github.com/promod/CoD4-Mod-Tools)**                   
-- **[Parasyte](https://mega.nz/folder/t3IjwTya#ejz51YKryd7CujUrl8C92Q/file/VmAATTrL)**                   
-- **[Game Image Util](https://github.com/Scobalula/GameImageUtil)**  
+                  
 
-- **[MW 2019]**
+
 - **[COD 4: MWR]**
-- **[COD MW2:CR]**
-- **[MW 2019]**
 
 ---
 
