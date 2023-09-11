@@ -83,6 +83,11 @@ on the gifs, you can see the cod4 original models on the top, and the modified v
 2. Extract and put the mod inside your mods folder.
 3. Done!
 
+## How to use
+
+- In COD 4, there is 5 Different teams.
+     OpFor vs USMC ( **mp_crash**, **mp_backlot**, **mp_bog**, **mp_citystreets**, **mp_showdown**, **mp_broadcast**, **mp_crossfire**, **mp_strike** and **mp_Crash_snow**
+
 ## Credits
 
 This mod could not have been realized without the help of :
