@@ -18,8 +18,6 @@
 </p>
 <div align="center">
   <a href="https://github.com/Politohh/IW3_MWR)">
-    <img src="strike.png" alt="Preview" width="1280" height="480">
-  </a>
 </div>
 <h4 align="center">Keep in mind this is still in development.</a></h4>
 <h4 align="center">BUGS ARE EXPECTED</a></h4>
@@ -31,8 +29,10 @@
 * High quality
 
  ## Videos 
+<img src="usmc-opfor.gif" alt="Preview" width="1280" height="720">
+
  
-  - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                                 
+  - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                             
                   
 ## Support
 
