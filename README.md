@@ -100,16 +100,16 @@ When you choose to edit a demo, be sure to use the right mod for it.
 
 If your demo is on one of those maps :
 ( **mp_crash**, **mp_backlot**, **mp_bog**, **mp_citystreets**, **mp_showdown**, **mp_broadcast**, **mp_crossfire**, **mp_strike** and **mp_Crash_snow**)
-You have to use this 
+You have to use this **[mod](https://github.com/Politohh/IW3_MWR/releases/download/R/MWR_OpFor_vs_USMC_MWR_Weapons.zip)**.
 
 If your demo is on one of those maps :
 ( **mp_Shipment**, **mp_vacant**, **mp_carentan**, **mp_cargoship** and **mp_killhouse**. )
-You have to use this 
+You have to use this **[mod](https://github.com/Politohh/IW3_MWR/releases/download/R/MWR_SAS_Urban_vs_Spetsnaz_Urban_MWR_Weapons.zip)**.
 
 If your demo is on one of those maps :
  ( **mp_bloc**, **mp_countdown**, **mp_farm**, **mp_overgrown**, **mp_pipeline** and **mp_creek**. )
 
-You have to use this 
+You have to use this **[mod](https://github.com/Politohh/IW3_MWR/releases/download/R/MWR_SAS_Woodland_vs_Spetsnaz_Woodland_MWR_Weapons.zip)**. 
   
 ## Credits
 
@@ -132,7 +132,7 @@ This mod could not have been realized without the help of :
 
 ---
 
-**Please contact me if you find any bugs or have any suggestions.**
+**Please contact me if you find any bugs or have any suggestions/questions.**
 #### Twitter: @thatkidpolito
 #### Discord: polito#2491
 
