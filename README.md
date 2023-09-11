@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  IW3 ENHANCER MOD
+  MWR TO IW3
   <br>
 </h1>
 
