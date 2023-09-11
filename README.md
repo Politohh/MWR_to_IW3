@@ -98,8 +98,8 @@
 
 ## Installation
 
-1. Download.
-2. Extract and put the mod.ff and the *.iwd* archive in your cod4 mod directory.
+1. Download the version of the mod you want by looking at the releases tab.
+2. Extract and put the mod inside your mods folder.
 3. Done!
 
 ## Credits
