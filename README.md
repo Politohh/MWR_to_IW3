@@ -34,28 +34,10 @@
 
 
 
-<img src="https://github.com/Politohh/IW3_MWR/blob/aa42976291fec85483a080008a5b60b232ddb69c/usmc-opfor.gif" alt="gif1" width="10rem" />
 
 
 
-
-
-![zaza1](https://github.com/Politohh/IW3_MWR/blob/aa42976291fec85483a080008a5b60b232ddb69c/usmc-opfor.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![zaza2](https://github.com/Politohh/IW3_MWR/blob/7b4dbea1941c314025a6e1936063b3d34730e20b/spetsnaz.gif)
+![zaza1](https://github.com/Politohh/IW3_MWR/blob/4a35c1d177692fb58f4939f653b484f9932eaea2/usmc-opfor.gif)
 
 
 
@@ -70,7 +52,22 @@
 
 
 
-![zaza3](https://github.com/Politohh/IW3_MWR/blob/6796991d3e1e85ee789576adbb3f8b2ec8a2697b/sas.gif)
+![zaza2](https://github.com/Politohh/IW3_MWR/blob/4a35c1d177692fb58f4939f653b484f9932eaea2/spetsnaz.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![zaza3](https://github.com/Politohh/IW3_MWR/blob/4a35c1d177692fb58f4939f653b484f9932eaea2/sas.gif)
 
 
   - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                             
