@@ -85,9 +85,30 @@ on the gifs, you can see the cod4 original models on the top, and the modified v
 
 ## How to use
 
-- In COD 4, there is 5 Different teams.
-     OpFor vs USMC ( **mp_crash**, **mp_backlot**, **mp_bog**, **mp_citystreets**, **mp_showdown**, **mp_broadcast**, **mp_crossfire**, **mp_strike** and **mp_Crash_snow**
+In COD 4, there is 5 Different teams.
+- OpFor vs USMC
+    ( **mp_crash**, **mp_backlot**, **mp_bog**, **mp_citystreets**, **mp_showdown**, **mp_broadcast**, **mp_crossfire**, **mp_strike** and **mp_Crash_snow**)
+- SAS Urban vs Spetsnaz Urban
+    ( **mp_Shipment**, **mp_vacant**, **mp_carentan**, **mp_cargoship** and **mp_killhouse**. )
+- SAS Woodland vs Spetsnaz Woodland
+    ( **mp_bloc**, **mp_countdown**, **mp_farm**, **mp_overgrown**, **mp_pipeline** and **mp_creek**. )
 
+When you choose to edit a demo, be sure to use the right mod for it.
+  exemple : my demo is on the **mp_vacant** map, so i use the **MWR_SAS_Urban_vs_Spetsnaz_Urban_MWR_Weapons** mod.
+
+If your demo is on one of those maps :
+( **mp_crash**, **mp_backlot**, **mp_bog**, **mp_citystreets**, **mp_showdown**, **mp_broadcast**, **mp_crossfire**, **mp_strike** and **mp_Crash_snow**)
+You have to use this 
+
+If your demo is on one of those maps :
+( **mp_Shipment**, **mp_vacant**, **mp_carentan**, **mp_cargoship** and **mp_killhouse**. )
+You have to use this 
+
+If your demo is on one of those maps :
+ ( **mp_bloc**, **mp_countdown**, **mp_farm**, **mp_overgrown**, **mp_pipeline** and **mp_creek**. )
+
+You have to use this 
+  
 ## Credits
 
 This mod could not have been realized without the help of :
