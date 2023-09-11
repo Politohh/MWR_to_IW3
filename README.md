@@ -78,6 +78,10 @@ On the following gifs, you can see the cod4 original models on the top, and the 
 | [COD4x](https://cod4x.ovh/t/releases/24) | Yes |
 
 I **strongly** recommend using [IW3xo](https://github.com/xoxor4d/iw3xo-dev) client.
+You need those values inside your **config_mp.cfg**
+`r_buf_skinnedCacheVb 64
+ r_buf_dynamicVertexBuffer 64`
+
 
 **[Auto IW3xo Installer by Kruumy](https://github.com/kruumy/iw3xo-one-click-installer)**
 
@@ -127,13 +131,12 @@ This mod could not have been realized without the help of :
 - **[Paint.net](https://www.getpaint.net/)**                  
 - **[Greyhound](https://github.com/Scobalula/Greyhound)**
 - **[Maya 2018](https://www.autodesk.com/campaigns/maya)**                   
-- **[Cod 4 Mod Tools](https://github.com/promod/CoD4-Mod-Tools)**                   
-                  
-
-
+- **[Cod 4 Mod Tools](https://github.com/promod/CoD4-Mod-Tools)**                                   
 - **[COD 4: MWR]**
 
 ---
+
+If you publish and edit with this mod, id like the person to mention me in the description and send me the edit on twitter or discord 👌
 
 **Please contact me if you find any bugs or have any suggestions/questions.**
 #### Twitter: @thatkidpolito
