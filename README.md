@@ -36,7 +36,7 @@
 
 
 
-<gif src="https://github.com/Politohh/IW3_MWR/blob/main/usmc-opfor.gif" width="1280" height="720"/>
+![zaza1](https://github.com/Politohh/IW3_MWR/blob/aa42976291fec85483a080008a5b60b232ddb69c/usmc-opfor.gif)
 
 
 
