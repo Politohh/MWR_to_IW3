@@ -30,7 +30,23 @@
 
  ## Videos 
 
-![zaza](https://github.com/Politohh/IW3_MWR/blob/8715f3bc320eea789c5509ec8b09ad5d5be0365d/usmc-opfor.gif)
+![zaza](https://github.com/Politohh/IW3_MWR/blob/8715f3bc320eea789c5509ec8b09ad5d5be0365d/usmc-opfor.gif =1280x720)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
