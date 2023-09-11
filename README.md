@@ -29,7 +29,7 @@
 * High quality.
 
  ## Videos 
-
+on the gifs, you can see the cod4 original models on the top, and the modified versions from MWR at the bottom.
 
 
 
