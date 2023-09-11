@@ -29,7 +29,8 @@
 * High quality.
 
  ## Videos 
-<img src="https://github.com/Politohh/IW3_MWR/blob/main/usmc-opfor.gif" width="1280" height="720" />
+ 
+<gif src="https://github.com/Politohh/IW3_MWR/blob/main/usmc-opfor.gif" width="1280" height="720" />
 
 https://github.com/Politohh/IW3_MWR/blob/main/usmc-opfor.gif
 
