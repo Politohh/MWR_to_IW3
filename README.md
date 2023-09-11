@@ -75,6 +75,8 @@ on the gifs, you can see the cod4 original models on the top, and the modified v
 | [IW3xo](https://github.com/xoxor4d/iw3xo-dev) | Yes |
 | [COD4x](https://cod4x.ovh/t/releases/24) | Yes |
 
+I **strongly** recommend using [IW3xo](https://github.com/xoxor4d/iw3xo-dev) client.
+
 **[Auto IW3xo Installer by Kruumy](https://github.com/kruumy/iw3xo-one-click-installer)**
 
 ## Installation
