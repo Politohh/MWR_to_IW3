@@ -24,12 +24,12 @@
 
 ## Features
 
-* Replaces the playermodels and WorldModel Weapons by their MWR Versions.
-* Works with old demos
-* High quality
+* Replaces the playermodels and WorldModel Weapons by their MWR versions.
+* Works with old demos.
+* High quality.
 
  ## Videos 
-![](usmc-opfor.gif =1280x720)
+![](usmc-opfor.gif =1920x1080)
 
  
   - **[Artstation Page](https://www.artstation.com/artwork/blawbg)**                             
