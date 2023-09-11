@@ -79,8 +79,9 @@ On the following gifs, you can see the cod4 original models on the top, and the 
 
 I **strongly** recommend using [IW3xo](https://github.com/xoxor4d/iw3xo-dev) client.
 You need those values inside your **config_mp.cfg**
-`r_buf_skinnedCacheVb 64
- r_buf_dynamicVertexBuffer 64`
+
+- r_buf_skinnedCacheVb 64
+- r_buf_dynamicVertexBuffer 64
 
 
 **[Auto IW3xo Installer by Kruumy](https://github.com/kruumy/iw3xo-one-click-installer)**
