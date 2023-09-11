@@ -10,11 +10,6 @@
   <a href="https://paypal.me/politoggs"><img src="https://img.shields.io/badge/Donate-Paypal-orange?style=flat-square"></a>
 </div>
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#pictures">Videos</a> •
-  <a href="#support">Support</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#credits">Credits</a> •
 </p>
 <div align="center">
   <a href="https://github.com/Politohh/IW3_MWR)">
