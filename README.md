@@ -21,10 +21,12 @@
 
 * Replaces the playermodels and WorldModel Weapons by their MWR versions.
 * Works with old demos.
-* High quality.
+* High Quality.
+* Can be combined with another mod. (exemple [Cod4-Better-Anims](https://github.com/kruumy/cod4-better-anims) or [IW3 ENHANCER MOD](https://github.com/Politohh/IW3-ENHANCER-MOD))
+* This mod does not change anything related to viewmodel.
 
  ## Videos 
-on the gifs, you can see the cod4 original models on the top, and the modified versions from MWR at the bottom.
+On the following gifs, you can see the cod4 original models on the top, and the modified versions from MWR at the bottom.
 
 
 
