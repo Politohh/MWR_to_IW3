@@ -73,12 +73,12 @@ On the following gifs, you can see the cod4 original models on the top, and the 
 
 | Name | Status |
 | --- | --- |
-| COD4 1.7 | Yes |
+| COD4 1.7 | No |
 | [IW3xo](https://github.com/xoxor4d/iw3xo-dev) | Yes |
-| [COD4x](https://cod4x.ovh/t/releases/24) | Yes |
+| [COD4x](https://cod4x.ovh/t/releases/24) | No |
 
 I **strongly** recommend using [IW3xo](https://github.com/xoxor4d/iw3xo-dev) client.
-You need those values inside your **config_mp.cfg**
+You need those values inside your **config_mp.cfg**, else the playermodels will flicker.
 
 - r_buf_skinnedCacheVb 64
 - r_buf_dynamicVertexBuffer 64
