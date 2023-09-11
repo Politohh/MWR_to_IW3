@@ -100,6 +100,52 @@ https://github.com/Politohh/IW3_MWR/blob/main/usmc-opfor.gif
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![zaza2](https://github.com/Politohh/IW3_MWR/blob/7b4dbea1941c314025a6e1936063b3d34730e20b/spetsnaz.gif)
 
 
