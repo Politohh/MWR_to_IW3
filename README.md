@@ -115,7 +115,7 @@ You have to use this **[mod](https://github.com/Politohh/IW3_MWR/releases/downlo
 If your demo is on one of those maps :
  ( **mp_bloc**, **mp_countdown**, **mp_farm**, **mp_overgrown**, **mp_pipeline** and **mp_creek**. )
 
-You have to use this **[mod](https://github.com/Politohh/IW3_MWR/releases/download/R/MWR_SAS_Woodland_vs_Spetsnaz_Woodland_MWR_Weapons.zip)**. 
+You have to use this **[mod](https://github.com/Politohh/MWR_to_IW3/releases/download/Ra/MWR_SAS_Woodland_vs_Spetsnaz_Woodland_MWR_Weapons.zip)**. 
   
 ## Credits
 
