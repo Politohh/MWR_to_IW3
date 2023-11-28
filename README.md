@@ -85,6 +85,11 @@ You need those values inside your **config_mp.cfg**, else the playermodels will 
 
 **[Auto IW3xo Installer by Kruumy](https://github.com/kruumy/iw3xo-one-click-installer)**
 
+## Raw Files
+
+**[Raw Files of All Mods](https://drive.google.com/file/d/19SyBNICeTTlfa6G9uzMWCZXt952vWxfP/view?usp=sharing)**
+ 
+
 ## Installation
 
 1. Download the version of the mod you want by looking at the releases tab.
