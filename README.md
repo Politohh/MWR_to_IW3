@@ -77,8 +77,10 @@ On the following gifs, you can see the cod4 original models on the top, and the 
 | [COD4x](https://cod4x.ovh/t/releases/24) | No |
 
 I **strongly** recommend using [IW3xo](https://github.com/xoxor4d/iw3xo-dev) client.
-You need those values inside your **config_mp.cfg**, else the playermodels will flicker.
 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ PLAYER FLICKERING PROBLEM ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+You need those values inside your **config_mp.cfg**, or type in console :
 - r_buf_skinnedCacheVb 64
 - r_buf_dynamicVertexBuffer 64
 
