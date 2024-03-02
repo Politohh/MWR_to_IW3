@@ -81,8 +81,8 @@ I **strongly** recommend using [IW3xo](https://github.com/xoxor4d/iw3xo-dev) cli
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ PLAYER FLICKERING PROBLEM ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 You need those values inside your **config_mp.cfg**, or type in console :
-- r_buf_skinnedCacheVb 64
-- r_buf_dynamicVertexBuffer 64
+- r_buf_skinnedCacheVb 24
+- r_buf_dynamicVertexBuffer 24
 
 
 **[Auto IW3xo Installer by Kruumy](https://github.com/kruumy/iw3xo-one-click-installer)**
